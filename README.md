@@ -1,1 +1,1 @@
-서비스 소개 링크: https://github.com/swyp-9-web
+소개 README.md: https://github.com/swyp-9-web
